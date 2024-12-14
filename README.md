@@ -1,7 +1,6 @@
 # Pizza Sales Analysis 
 
-
-# Project Overview 
+Project Overview:
 
 I did an explaratory data analysis on this pizza sales dataset I found on Kaggle to showcase my Data Analysis skills.
 
