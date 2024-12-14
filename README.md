@@ -3,7 +3,7 @@
 
 # Project Overview 
 
-I analyzed this pizza sales dataset I found on Kaggle to showcase my Data Analysis skills.
+I did an explaratory data analysis on this pizza sales dataset I found on Kaggle to showcase my Data Analysis skills.
 
 At the beginning, I imported the csv files on SQL Server to see what the dataset we have looks like.
 
@@ -14,7 +14,7 @@ Then I wanted to see the KPIs in relation to the parameters I picked such as dat
 
 
 
-After I was done with SQL, I moved on to create a Power BI dashboard in order too get better insights.
+After I was done with SQL, I moved on to create a Power BI dashboard in order to get better insights.
 
 I imported the files to Power BI from the database I had created on SQL Server. Luckily I didn't have to do too much data modeling as it was already separated into 4 csv files.
 
